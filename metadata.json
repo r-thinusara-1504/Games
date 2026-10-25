@@ -1,0 +1,8 @@
+{
+  "name": "Sands of Ra: Egyptian RTS",
+  "description": "An authentic historical real-time strategy game set in ancient Egypt. Build settlements along the Nile, harvest resources, worship the gods for divine favors, and command armies of khopesh warriors, chariot archers, and mythic guardians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
